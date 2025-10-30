@@ -107,18 +107,11 @@ Data Analyst | Python | Power BI | SQL
 
 🔗 Connect with me:
 
-LinkedIn
+[LinkedIn](www.linkedin.com/in/insherah-majid-146496317)
 
-GitHub
 
-- Visuals Included
-- Average Steps by Weekday
-- Activity vs Sleep Scatter Plot
-- Calories Burned Distribution
-- Top 5 Most Active Users
-- Correlation Heatmap
 
-⭐ If you find this project insightful, consider giving it a star on GitHub!
+
 
 
 
